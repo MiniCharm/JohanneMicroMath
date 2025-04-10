@@ -28,7 +28,7 @@ namespace JohanneMicroMath
         /// <returns></returns>
         public int AddThreeNumbers(int t1, int t2, int t3)
         {
-            return t1 + t2+t3; //Add
+            return t1 + t2+t3;
         }
 
     }
