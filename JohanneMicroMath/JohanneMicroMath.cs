@@ -16,7 +16,7 @@ namespace JohanneMicroMath
         /// <returns>return the result as an int</returns>
         public int Add(int t1, int t2) 
         {
-            return t1 + t2;
+            return t1 + t2;//Conflicts will apear
         }
     }
 }
